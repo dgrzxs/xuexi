@@ -1,0 +1,6 @@
+﻿  sub.c
+  test.c
+D:\2022_code\code_2022_12_28\code_2022_12_28\test.c(230,9): warning C4013: “Add”未定义；假设外部返回 int
+D:\2022_code\code_2022_12_28\code_2022_12_28\test.c(233,9): warning C4013: “Sub”未定义；假设外部返回 int
+  正在生成代码...
+  code_2022_12_28.vcxproj -> D:\2022_code\code_2022_12_28\Debug\code_2022_12_28.exe
